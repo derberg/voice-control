@@ -4,5 +4,11 @@
     "password": "",
     "version": "v1",
     "url": "https://stream.watsonplatform.net/speech-to-text/api"
+  },
+  "yaas": {
+    "projectId": "",
+    "clientName": "",
+    "clientId": "",
+    "clientSecret": ""
   }
 }

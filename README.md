@@ -1,12 +1,24 @@
-Stuff based on espruino and IBM Watson API. You can use it to manage whatever you want with your voice.
+Stuff based on Espruino and IBM Watson API. You can use it to manage whatever you want with your voice.
 
-This is very first version. No espruino specific code yet. It checks IBM Watson API and its powerful Speech to Text service.
+This is very first version. No Espruino specific code yet. It checks IBM Watson API and its powerful Speech to Text service.
 
 ## Start Locally
 
+### Get YaaS
+
+You need YaaS to use their nice Email service
+
+1. Create an account at https://yaas.io
+
+2. Create new Project and Client
+
+3. Write down your projectId, clientName and its clientId and clientSecret.
+
 ### Get Bluemix
 
-1. Log in to Bluemix at https://bluemix.net and create an account.
+You need Bluemix to use their nice Speech to Text service
+
+1. Create an account at https://bluemix.net
 
 2. Create an instance of the Speech to Text service:
      * In the Bluemix **Catalog**, select Speech to Text under service's Watson category
