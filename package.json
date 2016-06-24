@@ -1,0 +1,16 @@
+{
+  "name": "voice-control",
+  "version": "1.0.0",
+  "description": "Stuff based on espruino and IBM Watson API. You can use it to manage whatever you want with your voice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "lukasz.gornicki@hybris.com",
+  "license": "MIT",
+  "dependencies": {
+    "config": "^1.19.0",
+    "watson-developer-cloud": "^1.9.4"
+  }
+}
